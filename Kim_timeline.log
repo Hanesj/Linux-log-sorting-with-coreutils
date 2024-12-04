@@ -1,0 +1,21 @@
+-------------------------LOG TIMELINE FOR: Kim------------------------------
+09/30 00:09:28 192.0.2.0.124 POST /logout.php 200
+09/30 23:03:24 203.0.113.9 GET /adm/index.php 200
+09/30 23:05:09 203.0.113.9 GET /adm/app_info.php 200
+09/30 23:05:59 203.0.113.9 GET /adm/crm/customers.php?q=payment 404
+09/30 23:12:29 203.0.113.9 GET /adm/index.php 200
+09/30 23:20:16 203.0.113.9 GET /adm/index.php 200
+09/30 23:21:17 203.0.113.9 GET /adm/crm/customers.php?q= 200
+09/30 23:21:32 203.0.113.9 GET /adm/crm/customers.php?q=casino 404
+09/30 23:21:51 203.0.113.9 GET /adm/crm/customers.php?q=bank 200
+09/30 23:31:02 192.0.2.124 POST /adm/time_report.php 200
+09/30 23:35:35 203.0.113.9 GET /adm/crm/servers.php?id=Xample%20Bank%20%26%20Finance 200
+09/30 23:35:49 203.0.113.9 GET /adm/support_access.php?org=Xample%20Bank%20%26%20Finance&srv=14 403
+09/30 23:36:43 203.0.113.9 GET /adm/int/users.php?q=&role= 200
+09/30 23:37:03 203.0.113.9 GET /adm/int/users.php?q=&role=Customer%20support 200
+09/30 23:37:07 203.0.113.9 GET /adm/int/profile.php?id=thomas 200
+09/30 23:38:51 203.0.113.9 POST /logout.php 200
+10/01 13:05:09 203.0.113.9 GET /adm/app_info.php 200
+10/01 13:12:24 203.0.113.9 GET /adm/crm/about.php?id=Xample%20Bank%20%26%20Finance 200
+10/01 13:22:04 203.0.113.9 GET /adm/int/profile.php?id=mike 200
+10/01 13:22:57 203.0.113.9 GET /adm/int/profile.php?id=boris 200
